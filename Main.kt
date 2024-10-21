@@ -1,4 +1,3 @@
-```kotlin
 import kotlin.math.sqrt
 
 data class Point(val x: Double, val y: Double)
@@ -67,4 +66,3 @@ fun main() {
     val circle = Circle(center, radius)
     println(circle)
 }
-```
